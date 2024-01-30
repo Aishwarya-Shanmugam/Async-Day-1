@@ -1,0 +1,27 @@
+body
+{
+  background: radial-gradient(orange, white,green);
+}
+
+.main_cont
+{
+  min-height: 100vh;
+  display:grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.clock-col 
+{
+  text-align: center;
+  margin-right: 50px; 
+  margin-left:50px;
+}
+  
+.clock-label 
+{
+  color: rgb(18, 18, 62);
+  text-transform:capitalize;
+  font-size:100px;
+  font-family:fantasy;
+} 
